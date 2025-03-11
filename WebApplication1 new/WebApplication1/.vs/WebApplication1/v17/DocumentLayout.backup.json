@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\services\\interfaces\\itrainerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\interfaces\\itrainerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\services\\implementation\\trainerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\implementation\\trainerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\repository\\implementations\\trainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\implementations\\trainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\controllers\\goalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\goalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\repository\\implementations\\excerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\implementations\\excerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\repository\\implementations\\goalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\implementations\\goalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\shukl\\desktop\\webapplication1 new\\webapplication1 new\\webapplication1\\webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04994CAE-477E-490F-A4BA-297B676699BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:45:21.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:43:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:23:21.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:38:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITrainerServices.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Services\\Interfaces\\ITrainerServices.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Interfaces\\ITrainerServices.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Services\\Interfaces\\ITrainerServices.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Interfaces\\ITrainerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:36:57.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAWwJ8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:48:52.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainerServices.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Services\\Implementation\\TrainerServices.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Implementation\\TrainerServices.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Services\\Implementation\\TrainerServices.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Implementation\\TrainerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:37:33.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExcerciseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Repository\\Implementations\\ExcerciseRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Implementations\\ExcerciseRepository.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Repository\\Implementations\\ExcerciseRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Implementations\\ExcerciseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:58:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrainerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Repository\\Implementations\\TrainerRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Implementations\\TrainerRepository.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Repository\\Implementations\\TrainerRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Implementations\\TrainerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:38:33.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExercisesController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\ExercisesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ExercisesController.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\ExercisesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ExercisesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:57:56.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GoalsController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\GoalsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GoalsController.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\GoalsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\GoalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:57:59.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:58:01.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Models\\Trainer.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:03:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GoalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Repository\\Implementations\\GoalRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Implementations\\GoalRepository.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Repository\\Implementations\\GoalRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Implementations\\GoalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:58:44.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:45:56.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\shukl\\Desktop\\WebApplication1 new\\WebApplication1 new\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:30:06.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
